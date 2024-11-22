@@ -1,5 +1,6 @@
 # Commands
-We are only using the `select` and `union` methods
+We are only using the `select` and `union` methods and 'union select'
+
 
 # Default Databases
 ```
